@@ -52,7 +52,5 @@ Antes de executar o projeto, é necessário ter instalado:
 
 ---
 
-## ▶️ Como Executar o Projeto
 
-1. Clone o repositório:
 
